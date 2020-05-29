@@ -1,0 +1,18 @@
+.signup1{
+    color: rgb(123, 136, 173);
+    text-shadow: 2px 2px 2px rgb(31, 31, 31) !important;
+}
+.signup2{
+    color: black;
+  background-color:  rgb(144, 160, 204);  
+}
+.signup3{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signin1{
+    margin-top: 20px;
+    color: black;
+    background-color:  rgb(144, 160, 204);  
+    margin-right: 300px;
+  }
